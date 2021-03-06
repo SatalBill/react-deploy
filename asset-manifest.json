@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.6cad0242.chunk.css",
+    "main.js": "/react-deploy/static/js/main.3c269fbd.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.3c269fbd.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.f4ec5df9.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.f4ec5df9.js.map",
+    "static/js/2.9ccea6de.chunk.js": "/react-deploy/static/js/2.9ccea6de.chunk.js",
+    "static/js/2.9ccea6de.chunk.js.map": "/react-deploy/static/js/2.9ccea6de.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.6cad0242.chunk.css.map": "/react-deploy/static/css/main.6cad0242.chunk.css.map",
+    "static/js/2.9ccea6de.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.9ccea6de.chunk.js.LICENSE.txt",
+    "static/media/domain.54f2f6dd.svg": "/react-deploy/static/media/domain.54f2f6dd.svg",
+    "static/media/lists.ff18739c.svg": "/react-deploy/static/media/lists.ff18739c.svg",
+    "static/media/logo.c0a4e384.svg": "/react-deploy/static/media/logo.c0a4e384.svg",
+    "static/media/marketing.4caf70c6.svg": "/react-deploy/static/media/marketing.4caf70c6.svg",
+    "static/media/offer.f2d56da0.svg": "/react-deploy/static/media/offer.f2d56da0.svg",
+    "static/media/payment.a15fa0a3.svg": "/react-deploy/static/media/payment.a15fa0a3.svg",
+    "static/media/person.89e9e54a.png": "/react-deploy/static/media/person.89e9e54a.png",
+    "static/media/private.ac90ec96.svg": "/react-deploy/static/media/private.ac90ec96.svg",
+    "static/media/sales.59dccb7c.svg": "/react-deploy/static/media/sales.59dccb7c.svg",
+    "static/media/store.4d592cb8.svg": "/react-deploy/static/media/store.4d592cb8.svg",
+    "static/media/uaelg.fef88837.png": "/react-deploy/static/media/uaelg.fef88837.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ec5df9.js",
+    "static/js/2.9ccea6de.chunk.js",
+    "static/css/main.6cad0242.chunk.css",
+    "static/js/main.3c269fbd.chunk.js"
+  ]
+}
